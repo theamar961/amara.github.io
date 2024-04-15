@@ -13,7 +13,7 @@ Reach out to me on - [LinkedIn](https://www.linkedin.com/in/amar-ananth/) | Emai
 
 ## Education
 - M.S., Data Science	| Indiana University Bloomington (_May 2023_)	 			        		
-- B.Tech., Computer Science | PES University  (_May 2016_)
+- B.Tech., Computer Science | PES University  (_May 2020_)
 
 ## Work Experience
 **Data Science Researcher - Analyst @ Luddy School of Informatics (_September 2023 - Present_)**
