@@ -2,7 +2,7 @@
 
 ## About Me
 
-Been in the Data Science space for the last 4 years and solving a variety of use-cases across diverse domains like Insurance, Customer Service & Human Resources. 
+A data-driven storyteller, aiding businesses in making informed decisions. Over the years, I have been part of numerous Analytics teams - solving problems across diverse domains such as Insurance, Customer Service, Social Media, Human Resources & Healthcare. I have had the opportunity to work in both the industry and academia, which has helped me become skilled at breaking down Data Science use cases.
 
 In my free-time I enjoy a cup of coffee with a playlist of mine, or I immerse myself in following my favorite sports teams.
 
