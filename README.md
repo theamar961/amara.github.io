@@ -33,12 +33,14 @@ In my free-time I enjoy a cup of coffee with a playlist of mine, or I immerse my
 - Employed ad-hoc requests and showcased the 5 principal attrition drivers by employing data mining techniques such as NER, Dependency Parsing and Sentiment Analysis on textual feedback supplied by employees.
 
 ## Projects
-### LLM on your data [Code](https://github.com/theamar961/LLMOnYourData)
+### LLM on your data 
+[Code](https://github.com/theamar961/LLMOnYourData)
 
 Leveraged Langchain to tailor OpenAI gpt3.5 LLM, enabling the simulation of a chatbot experience with RAG. Integrated LLM and a Pinecone vector database, incorporating data wrangling, retrieval, and querying functionalities. My solution can serve as a versatile chatbot suitable for advanced analytics use cases in any industry.
 
 
-### Quantitative Analysis - Power Industry [Code](https://github.com/theamar961/Financial-Data-Science)
+### Quantitative Analysis - Power Industry 
+[Code](https://github.com/theamar961/Financial-Data-Science)
 
 Developed data flows to analyze trading data to evaluate stocks based on growth metrics and risk indicators. Narrated stock performance when looked in the aspect of real-life parameters vs when looked at in the aspect of data. My solution can be used to evaluate and visualize a stock’s performance based on its quantitative metrics.
 
