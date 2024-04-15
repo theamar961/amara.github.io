@@ -9,6 +9,8 @@ Over the years, I have been part of numerous Analytics teams - solving problems 
 In my free-time I enjoy a cup of coffee with a playlist of mine, or I immerse myself in following my favorite sports teams.
 
 
+Reach out to me on - [LinkedIn](https://www.linkedin.com/in/amar-ananth/) | amarabhat@gmail.com
+
 ## Education
 - M.S., Data Science	| Indiana University Bloomington (_May 2023_)	 			        		
 - B.Tech., Computer Science | PES University  (_May 2016_)
