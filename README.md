@@ -4,7 +4,7 @@
 
 Been in the Data Science space for the last 4 years and solving a variety of use-cases across diverse domains like Insurance, Customer Service & Human Resources. 
 
-In my free-time I enjoy a cup of coffee with a playlist of mine or following my favorite sporting teams (Liverpool FC, LA Lakers & RCB).
+In my free-time I enjoy a cup of coffee with a playlist of mine, or I immerse myself in following my favorite sports teams.
 
 ## Education
 - M.S., Data Science	| Indiana University Bloomington (_May 2023_)	 			        		
