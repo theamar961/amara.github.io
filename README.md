@@ -1,5 +1,11 @@
 # Data Scientist
 
+## About Me
+
+Been in the Data Science space for the last 4 years and solving a variety of use-cases across diverse domains like Insurance, Customer Service & Human Resources. 
+
+In my free-time I enjoy a cup of coffee with a playlist of mine or following my favorite sporting teams (Liverpool FC, LA Lakers & RCB).
+
 ## Education
 - M.S., Data Science	| Indiana University Bloomington (_May 2023_)	 			        		
 - B.Tech., Computer Science | PES University  (_May 2016_)
