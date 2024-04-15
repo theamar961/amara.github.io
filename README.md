@@ -49,6 +49,10 @@ Leveraged Langchain to tailor OpenAI gpt3.5 LLM, enabling the simulation of a ch
 
 Developed data flows to analyze trading data to evaluate stocks based on growth metrics and risk indicators. Narrated stock performance when looked in the aspect of real-life parameters vs when looked at in the aspect of data. My solution can be used to evaluate and visualize a stock’s performance based on its quantitative metrics.
 
+### Comato
+[Demo](https://docs.google.com/presentation/d/1bYyfk2v0LpMIKCVdgs4YfXOLI8GCdRzBlClrc_b_y2g/edit?usp=sharing)
+
+A comprehensive Power BI dashboard highlighting Bangalore's dynamic food landscape, effectively narrating its story visually. This view enables newcomers to Bangalore to identify restaurants to dine-in using intuitive filters. Conducted in-depth analysis to extract compelling insights, leveraging an array of charts to visually present findings.
 
 
 ## Other positions held
