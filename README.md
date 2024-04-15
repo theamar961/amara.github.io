@@ -27,4 +27,27 @@
 - Designed data visualization Tableau dashboards for HR to track and analyze employee sentiment from surveys.
 - Employed ad-hoc requests and showcased the 5 principal attrition drivers by employing data mining techniques such as NER, Dependency Parsing and Sentiment Analysis on textual feedback supplied by employees.
 
+## Projects
+### LLM on your data
+[Repo]([https://www.mdpi.com/1424-8220/22/8/3048](https://github.com/theamar961/LLMOnYourData))
+
+Leveraged Langchain to tailor OpenAI gpt3.5 LLM, enabling the simulation of a chatbot experience with RAG. Integrated LLM and a Pinecone vector database, incorporating data wrangling, retrieval, and querying functionalities. My solution can serve as a versatile chatbot suitable for advanced analytics use cases in any industry.
+
+
+### Quantitative Analysis - Power Industry
+[Repo]([https://github.com/theamar961/Financial-Data-Science])
+
+Developed data flows to analyze trading data to evaluate stocks based on growth metrics and risk indicators. Narrated stock performance when looked in the aspect of real-life parameters vs when looked at in the aspect of data. My solution can be used to evaluate and visualize a stock’s performance based on its quantitative metrics.
+
+
+
+## Talks & Lectures
+- Causality: The new science of an old question - GSP Seminar, Fall 2021
+- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+- Weeks of Welcome Poster Competition - UTD, Fall 2019
+- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
+
 
