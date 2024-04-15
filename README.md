@@ -1,6 +1,6 @@
 # Data Scientist
 
-Core Skills : Python, SQL, Natural Language Processing, Machine Learning, Data Visualization
+Core Skills : Python, SQL, NLP, Machine Learning, Data Visualization
 
 ## About Me
 
