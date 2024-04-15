@@ -6,6 +6,8 @@ A data-driven storyteller, aiding businesses in making informed decisions. Over 
 
 In my free-time I enjoy a cup of coffee with a playlist of mine, or I immerse myself in following my favorite sports teams.
 
+Reach out to me on - amarabhat@gmail.com | https://www.linkedin.com/in/amar-ananth/
+
 ## Education
 - M.S., Data Science	| Indiana University Bloomington (_May 2023_)	 			        		
 - B.Tech., Computer Science | PES University  (_May 2016_)
