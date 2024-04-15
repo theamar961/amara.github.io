@@ -2,11 +2,12 @@
 
 ## About Me
 
-A data-driven storyteller, aiding businesses in making informed decisions. Over the years, I have been part of numerous Analytics teams - solving problems across diverse domains such as Insurance, Customer Service, Social Media, Human Resources & Healthcare. I have had the opportunity to work in both the industry and academia, which has helped me become skilled at breaking down Data Science use cases.
+A data-driven storyteller, aiding businesses in making informed decisions. 
+
+Over the years, I have been part of numerous Analytics teams - solving problems across diverse domains such as Insurance, Customer Service, Social Media, Human Resources & Healthcare. I have had the opportunity to work in both the industry and academia, which has helped me become skilled at breaking down Data Science use cases.
 
 In my free-time I enjoy a cup of coffee with a playlist of mine, or I immerse myself in following my favorite sports teams.
 
-Reach out to me on - amarabhat@gmail.com | https://www.linkedin.com/in/amar-ananth/
 
 ## Education
 - M.S., Data Science	| Indiana University Bloomington (_May 2023_)	 			        		
