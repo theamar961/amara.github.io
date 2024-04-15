@@ -42,14 +42,19 @@ Developed data flows to analyze trading data to evaluate stocks based on growth 
 
 ## Other positions held
 - **Senior Consultant @ Hoosier Community Network** (8 months)
+  
  Advised small businesses in Indiana on how they can use data to expand their businesses. 
 - **Graduate Research Assistant under Prof. Allen Riddell @ Indiana Univeristy** (16 months)
+  
    Wrote scripts for easy access to TXT files of books across different libraries around the world.
 - **Indiana University Chess Team**
+  
   Won 2/2 games played for IU in college tournaments. 
 - **Football Coach @ Sparky Football**
+  
   Educating and spreading smiles across under-priveleged kids in India with the game of football.
 - **Mathematics & English teacher @ U&I org**
+  
   Teaching and inspiring kids in an AIDS facility in India
 
 
