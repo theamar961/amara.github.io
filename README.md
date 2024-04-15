@@ -35,6 +35,7 @@ Leveraged Langchain to tailor OpenAI gpt3.5 LLM, enabling the simulation of a ch
 
 ### Quantitative Analysis - Power Industry
 [Code](https://github.com/theamar961/Financial-Data-Science)
+
 Developed data flows to analyze trading data to evaluate stocks based on growth metrics and risk indicators. Narrated stock performance when looked in the aspect of real-life parameters vs when looked at in the aspect of data. My solution can be used to evaluate and visualize a stock’s performance based on its quantitative metrics.
 
 
